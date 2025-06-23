@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Yashar/churn_pred/mlruns/583395346719335773/a1982a0faf9c45e4bbe385c62495a5e9/artifacts
+end_time: 1750688323630
+entry_point_name: ''
+experiment_id: '583395346719335773'
+lifecycle_stage: active
+run_id: a1982a0faf9c45e4bbe385c62495a5e9
+run_name: Naive Bayes
+run_uuid: a1982a0faf9c45e4bbe385c62495a5e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750688322767
+status: 3
+tags: []
+user_id: Yashar

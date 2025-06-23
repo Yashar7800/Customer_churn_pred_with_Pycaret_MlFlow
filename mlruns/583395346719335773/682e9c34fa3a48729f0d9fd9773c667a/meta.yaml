@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Yashar/churn_pred/mlruns/583395346719335773/682e9c34fa3a48729f0d9fd9773c667a/artifacts
+end_time: 1750688330691
+entry_point_name: ''
+experiment_id: '583395346719335773'
+lifecycle_stage: active
+run_id: 682e9c34fa3a48729f0d9fd9773c667a
+run_name: Ada Boost Classifier
+run_uuid: 682e9c34fa3a48729f0d9fd9773c667a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750688330126
+status: 3
+tags: []
+user_id: Yashar

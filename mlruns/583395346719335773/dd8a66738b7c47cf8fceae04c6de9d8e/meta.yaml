@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Yashar/churn_pred/mlruns/583395346719335773/dd8a66738b7c47cf8fceae04c6de9d8e/artifacts
+end_time: 1750688326643
+entry_point_name: ''
+experiment_id: '583395346719335773'
+lifecycle_stage: active
+run_id: dd8a66738b7c47cf8fceae04c6de9d8e
+run_name: SVM - Linear Kernel
+run_uuid: dd8a66738b7c47cf8fceae04c6de9d8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750688326188
+status: 3
+tags: []
+user_id: Yashar

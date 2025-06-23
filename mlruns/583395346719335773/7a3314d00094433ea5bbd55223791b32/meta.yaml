@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Yashar/churn_pred/mlruns/583395346719335773/7a3314d00094433ea5bbd55223791b32/artifacts
+end_time: 1750688327252
+entry_point_name: ''
+experiment_id: '583395346719335773'
+lifecycle_stage: active
+run_id: 7a3314d00094433ea5bbd55223791b32
+run_name: Ridge Classifier
+run_uuid: 7a3314d00094433ea5bbd55223791b32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750688326790
+status: 3
+tags: []
+user_id: Yashar

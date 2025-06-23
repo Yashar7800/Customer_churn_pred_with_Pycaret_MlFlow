@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Yashar/churn_pred/mlruns/583395346719335773/be12c0aad3464e1a8946013d0b8eb46a/artifacts
+end_time: 1750688327839
+entry_point_name: ''
+experiment_id: '583395346719335773'
+lifecycle_stage: active
+run_id: be12c0aad3464e1a8946013d0b8eb46a
+run_name: Linear Discriminant Analysis
+run_uuid: be12c0aad3464e1a8946013d0b8eb46a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750688327389
+status: 3
+tags: []
+user_id: Yashar

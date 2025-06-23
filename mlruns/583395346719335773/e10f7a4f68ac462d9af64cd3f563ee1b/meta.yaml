@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Yashar/churn_pred/mlruns/583395346719335773/e10f7a4f68ac462d9af64cd3f563ee1b/artifacts
+end_time: 1750688329246
+entry_point_name: ''
+experiment_id: '583395346719335773'
+lifecycle_stage: active
+run_id: e10f7a4f68ac462d9af64cd3f563ee1b
+run_name: Light Gradient Boosting Machine
+run_uuid: e10f7a4f68ac462d9af64cd3f563ee1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750688328641
+status: 3
+tags: []
+user_id: Yashar

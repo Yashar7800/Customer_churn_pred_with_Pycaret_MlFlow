@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Yashar/churn_pred/mlruns/583395346719335773/e1c955b9b49e415683927dd491cf8a57/artifacts
+end_time: 1750688328491
+entry_point_name: ''
+experiment_id: '583395346719335773'
+lifecycle_stage: active
+run_id: e1c955b9b49e415683927dd491cf8a57
+run_name: Extra Trees Classifier
+run_uuid: e1c955b9b49e415683927dd491cf8a57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750688327975
+status: 3
+tags: []
+user_id: Yashar

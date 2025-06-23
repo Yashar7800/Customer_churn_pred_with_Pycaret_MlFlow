@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Yashar/churn_pred/mlruns/583395346719335773/3e903d51cf8e40c19ecc970de5941ed9/artifacts
+end_time: 1750688332226
+entry_point_name: ''
+experiment_id: '583395346719335773'
+lifecycle_stage: active
+run_id: 3e903d51cf8e40c19ecc970de5941ed9
+run_name: Decision Tree Classifier
+run_uuid: 3e903d51cf8e40c19ecc970de5941ed9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750688331591
+status: 3
+tags: []
+user_id: Yashar

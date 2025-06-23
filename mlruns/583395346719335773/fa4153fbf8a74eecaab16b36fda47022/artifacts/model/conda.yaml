@@ -1,0 +1,8 @@
+channels:
+- conda-forge
+dependencies:
+- pip<=25.1
+- pip:
+  - mlflow==2.8.1
+  - pycaret==3.3.2
+name: churn1-env
